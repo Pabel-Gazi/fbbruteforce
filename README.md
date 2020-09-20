@@ -1,4 +1,6 @@
-# fbbruteforce 
+<a href="https://github.com/Pabel-Gazi"><img title="Author" src="https://img.shields.io/badge/Author-Pabel--Gazi-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+
 # Tool Installation
 $pkg update
 $pkg upgrade
@@ -14,13 +16,6 @@ $ls
 $python2 target.py
 User:Pabel
 Pass:Kingdom      
-# About Tool
-This tool is used in only fb bruteforce attack.
-Frist you have make your own password list for your victim.
-After making password list, then run my too.
-If your password will matching your victim passworld.
-Then it will be showed that hacked.
-Please don't use it in a illegal work.
-It is only educational programme.
-At last I told you that'Thanks For Using Our Tool'.
-Keep support us & stay with us.
+## About Tool
+
+#### This tool is used in only fb bruteforce attack.Frist you have make your own password list for your victim.After making password list, then run this tool.If your password will matching your victim passworld.Then it will be showed that hacked.Please don't use it in a illegal work.
