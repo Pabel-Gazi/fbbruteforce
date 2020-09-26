@@ -7,7 +7,7 @@
 <a href="#"><img title="FB Bruteforce" src="https://img.shields.io/badge/FB %20Bruteforce-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 
-Tool Installation:
+       Tool Installation:
 
        $pkg update
 
@@ -36,6 +36,10 @@ Tool Installation:
        User:Pabel
 
        Pass:Kingdom      
+
+## Screenshot
+
+![PicsArt_09-26-05 58 16](https://user-images.githubusercontent.com/70365674/94340259-e3108a00-ffef-11ea-9552-6691da8d53ff.png)
 
 ## About Tool
 
