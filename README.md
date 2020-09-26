@@ -1,35 +1,41 @@
+<p align="left">
+<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 <a href="https://github.com/Pabel-Gazi"><img title="Author" src="https://img.shields.io/badge/Author-Pabel--Gazi-red.svg?style=for-the-badge&logo=github"></a>
 </p>
+<p align="left">
+<a href="#"><img title="FB Bruteforce" src="https://img.shields.io/badge/FB %20Bruteforce-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
-# Tool Installation
 
-$pkg update
+    Tool Installation
 
-$pkg upgrade
+       $pkg update
 
-$pkg install git 
+       $pkg upgrade
 
-$pkg install python 
+       $pkg install git 
 
-$pkg install python2 
+       $pkg install python 
 
-$pip2 install requests 
+       $pkg install python2 
 
-$pip2 install mechanize
+       $pip2 install requests 
 
-$git clone https://github.com/Pabel-Gazi/fbbruteforce
+       $pip2 install mechanize
 
-$ls
+       $git clone https://github.com/Pabel-Gazi/fbbruteforce
 
-$cd fbbruteforce
+       $ls
 
-$ls
+       $cd fbbruteforce
 
-$python2 target.py
+       $ls
 
-User:Pabel
+       $python2 target.py
 
-Pass:Kingdom      
+       User:Pabel
+
+       Pass:Kingdom      
 
 ## About Tool
 
